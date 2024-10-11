@@ -1,1 +1,1 @@
-# beardmiklei
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5CC81F&center=true&vCenter=true&width=435&lines=just+...+IOS+and+Flutter+developer;hello+everyone" alt="Typing SVG" /></a>
