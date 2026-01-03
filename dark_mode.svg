@@ -27,10 +27,8 @@ text, tspan { white-space: pre; }
 <text fill="#c9d1d9">
 
 <!-- HEADER -->
-<tspan x="30"  y="40">beardmikle@github</tspan>
-
-<tspan x="230" y="40">──────────</tspan>
-<tspan x="320" y="40" class="key">Mobile developer</tspan>
+<tspan x="200" y="40">──────────</tspan>
+<tspan x="310" y="40" class="key">Mobile developer</tspan>
 <tspan x="520" y="40">──────────</tspan>
 
 
