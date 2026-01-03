@@ -1,1 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5CC81F&center=true&vCenter=true&width=435&lines=just+...+IOS+and+Flutter+developer;hello+everyone" alt="Typing SVG" /></a>
+<a href="https://github.com/beardmikle/beardmikle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beardmikle/beardmikle/main/dark_mode.svg">
+    <img alt="Beardmikle GitHub Profile README" src="https://raw.githubusercontent.com/beardmikle/beardmikle/main/light_mode.svg">
+  </picture>
+</a>
