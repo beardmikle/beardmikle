@@ -67,7 +67,7 @@ text, tspan { white-space: pre; }
 
 <!-- HOBBIES -->
 <tspan x="120" y="300" class="key">Hobbies.Software:</tspan>
-<tspan x="300" y="300" class="cc">.....................................</tspan>
+<tspan x="300" y="300" class="cc">.................................</tspan>
 <tspan x="620" y="300" class="value">Mobile apps, UI/UX, AR, Open Source</tspan>
 
 <!-- CONTACT -->
