@@ -24,7 +24,7 @@ text, tspan { white-space: pre; }
 </style>
 
 <!-- Background -->
-<rect x="0" y="0" width="985" height="560" rx="15" fill="#161b22"/>
+<rect x="0" y="0" width="985" height="560" rx="15" fill="#101117"/>
 
 <!-- Content -->
 <text fill="#c9d1d9">
@@ -57,13 +57,13 @@ text, tspan { white-space: pre; }
 
 <!-- LANGUAGES -->
 <tspan x="120" y="215" class="key">Languages.Programming:</tspan>
-<tspan x="360" y="215" class="cc">..............................</tspan>
+<tspan x="360" y="215" class="cc">......................</tspan>
 <tspan x="620" y="215" class="value">SwiftUI, Kotlin, Dart, Flutter</tspan>
 
 <tspan x="620" y="235" class="value">iOS &amp; Android SDKs</tspan>
 
 <tspan x="120" y="260" class="key">Languages.Real:</tspan>
-<tspan x="300" y="260" class="cc">........................................</tspan>
+<tspan x="300" y="260" class="cc">......................</tspan>
 <tspan x="620" y="260" class="value">English</tspan>
 
 <!-- HOBBIES -->
