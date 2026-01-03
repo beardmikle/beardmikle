@@ -62,12 +62,12 @@ text, tspan { white-space: pre; }
 <tspan x="620" y="235" class="value">iOS &amp; Android SDKs</tspan>
 
 <tspan x="120" y="260" class="key">Languages.Real:</tspan>
-<tspan x="300" y="260" class="cc">......................</tspan>
+<tspan x="300" y="260" class="cc">............................</tspan>
 <tspan x="620" y="260" class="value">English</tspan>
 
 <!-- HOBBIES -->
 <tspan x="120" y="300" class="key">Hobbies.Software:</tspan>
-<tspan x="300" y="300" class="cc">........................................</tspan>
+<tspan x="300" y="300" class="cc">.....................................</tspan>
 <tspan x="620" y="300" class="value">Mobile apps, UI/UX, AR, Open Source</tspan>
 
 <!-- CONTACT -->
