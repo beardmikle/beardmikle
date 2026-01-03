@@ -14,7 +14,7 @@
   size-adjust: 109%;
 }
 
-.key { fill: #ffa657; }
+.key { fill: #c9d1d9; }
 .value { fill: #a5d6ff; }
 .cc { fill: #616e7f; }
 .addColor { fill: #3fb950; }
