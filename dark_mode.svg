@@ -15,10 +15,10 @@ text {
   font-size: 16px;
 }
 
-.key { fill: #4294F8; }
-.value { fill: #a5d6ff; }
-.cc { fill: #616e7f; }
-.addColor { fill: #3fb950; }
+.key { fill: #f2a45a; }      /* orange like Andrew */
+.value { fill: #9cdcfe; }   /* light blue values */
+.cc { fill: #6e7681; }      /* dots */
+.addColor { fill: #3fb950; }/* green status */
 
 text, tspan { white-space: pre; }
 </style>
