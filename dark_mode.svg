@@ -1,56 +1,108 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     font-family="ConsolasFallback,Consolas,monospace"
      width="985px"
      height="530px"
+     font-family="ConsolasFallback, Consolas, monospace"
      font-size="16px">
 
 <style>
 @font-face {
-  src: local('Consolas'), local('Consolas Bold');
-  font-family: 'ConsolasFallback';
+  src: local("Consolas"), local("Consolas Bold");
+  font-family: "ConsolasFallback";
   font-display: swap;
   -webkit-size-adjust: 109%;
   size-adjust: 109%;
 }
 .key { fill: #ffa657; }
 .value { fill: #a5d6ff; }
-.addColor { fill: #3fb950; }
-.delColor { fill: #f85149; }
 .cc { fill: #616e7f; }
 text, tspan { white-space: pre; }
 </style>
 
-<!-- Background block -->
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<!-- Background -->
+<rect width="985px" height="530px" rx="15" fill="#161b22"/>
 
 <!-- Content -->
 <text x="380" y="30" fill="#c9d1d9">
-<tspan x="380" y="30">beardmikle@github</tspan> -———————————————————————————————————————————-—-
-<tspan x="380" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">macOS, iOS, Android, Linux, Windows</tspan>
-<tspan x="380" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">11 years</tspan>
-<tspan x="380" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Freelance Mobile Developer</tspan>
-<tspan x="380" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... <tspan class="value">Mobile &amp; Cross-Platform Development</tspan>
-<tspan x="380" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Xcode, Android SDK</tspan>
 
-<tspan x="380" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan>
-<tspan class="value">SwiftUI, Kotlin, Dart, Flutter, iOS & Android SDKs</tspan>
-<tspan x="380" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English</tspan>
+<tspan x="380" y="30">beardmikle@github</tspan>
+<tspan> -———————————————————————————————————————————-—-</tspan>
 
-<tspan x="380" y="230" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan>
+<tspan x="380" y="50" class="cc">. </tspan>
+<tspan class="key">OS</tspan>:
+<tspan class="cc"> ........................ </tspan>
+<tspan class="value">macOS, iOS, Android, Linux, Windows</tspan>
+
+<tspan x="380" y="70" class="cc">. </tspan>
+<tspan class="key">Uptime</tspan>:
+<tspan class="cc"> ...................... </tspan>
+<tspan class="value">11 years</tspan>
+
+<tspan x="380" y="90" class="cc">. </tspan>
+<tspan class="key">Host</tspan>:
+<tspan class="cc"> ............................. </tspan>
+<tspan class="value">Freelance Mobile Developer</tspan>
+
+<tspan x="380" y="110" class="cc">. </tspan>
+<tspan class="key">Kernel</tspan>:
+<tspan class="cc"> ...... </tspan>
+<tspan class="value">Mobile &amp; Cross-Platform Development</tspan>
+
+<tspan x="380" y="130" class="cc">. </tspan>
+<tspan class="key">IDE</tspan>:
+<tspan class="cc"> ........................ </tspan>
+<tspan class="value">VS Code, Xcode, Android SDK</tspan>
+
+<tspan x="380" y="170" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:
+<tspan class="cc"> ..... </tspan>
+<tspan class="value">SwiftUI, Kotlin, Dart, Flutter, iOS &amp; Android SDKs</tspan>
+
+<tspan x="380" y="190" class="cc">. </tspan>
+<tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:
+<tspan class="cc"> ......................... </tspan>
+<tspan class="value">English</tspan>
+
+<tspan x="380" y="230" class="cc">. </tspan>
+<tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:
+<tspan class="cc"> .... </tspan>
 <tspan class="value">Mobile apps, UI/UX, AR, Open Source</tspan>
 
-<tspan x="380" y="270">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="380" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">beardmikle@gmail.com</tspan>
-<tspan x="380" y="310" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">https://beardmikle.dev</tspan>
-<tspan x="380" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">linkedin.com/in/beardmikle</tspan>
-<tspan x="380" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">github.com/beardmikle</tspan>
+<tspan x="380" y="270">- Contact</tspan>
+<tspan> -——————————————————————————————————————————————-—-</tspan>
 
-<tspan x="380" y="390">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="380" y="410" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .......................... </tspan>
-<tspan class="value">Mobile Development & Cross-Platform</tspan>
-<tspan x="380" y="430" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................ </tspan>
+<tspan x="380" y="290" class="cc">. </tspan>
+<tspan class="key">Email</tspan>:
+<tspan class="cc"> ............................. </tspan>
+<tspan class="value">beardmikle@gmail.com</tspan>
+
+<tspan x="380" y="310" class="cc">. </tspan>
+<tspan class="key">Website</tspan>:
+<tspan class="cc"> ........................... </tspan>
+<tspan class="value">https://beardmikle.dev</tspan>
+
+<tspan x="380" y="330" class="cc">. </tspan>
+<tspan class="key">LinkedIn</tspan>:
+<tspan class="cc"> .......................... </tspan>
+<tspan class="value">linkedin.com/in/beardmikle</tspan>
+
+<tspan x="380" y="350" class="cc">. </tspan>
+<tspan class="key">GitHub</tspan>:
+<tspan class="cc"> ............................ </tspan>
+<tspan class="value">github.com/beardmikle</tspan>
+
+<tspan x="380" y="390">- GitHub Stats</tspan>
+<tspan> -—————————————————————————————————————————-—-</tspan>
+
+<tspan x="380" y="410" class="cc">. </tspan>
+<tspan class="key">Focus</tspan>:
+<tspan class="cc"> .......................... </tspan>
+<tspan class="value">Mobile Development &amp; Cross-Platform</tspan>
+
+<tspan x="380" y="430" class="cc">. </tspan>
+<tspan class="key">Status</tspan>:
+<tspan class="cc"> ............................ </tspan>
 <tspan class="value">Available for freelance 🚀</tspan>
-</text>
 
+</text>
 </svg>
