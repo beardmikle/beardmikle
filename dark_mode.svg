@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 985 560"
-     preserveAspectRatio="xMidYMid meet">
+     preserveAspectRatio="xMidYMid meet"
+     font-family="ConsolasFallback,Consolas,monospace"
+     font-size="16px">
 
 <style>
 @font-face {
-  src: local("Consolas"), local("Consolas Bold");
-  font-family: "ConsolasFallback";
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
   font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
 }
 
-text {
-  font-family: ConsolasFallback, Consolas, monospace;
-  font-size: 16px;
-}
-
-.key { fill: #f2a45a; }      /* orange like Andrew */
-.value { fill: #9cdcfe; }   /* light blue values */
-.cc { fill: #6e7681; }      /* dots */
-.addColor { fill: #3fb950; }/* green status */
+.key { fill: #ffa657; }
+.value { fill: #a5d6ff; }
+.cc { fill: #616e7f; }
+.addColor { fill: #3fb950; }
 
 text, tspan { white-space: pre; }
 </style>
 
 <!-- Background -->
-<rect x="0" y="0" width="985" height="560" rx="15" fill="#101117"/>
+<rect x="0" y="0" width="985" height="560" rx="15" fill="#161b22"/>
 
 <!-- Content -->
 <text fill="#c9d1d9">
